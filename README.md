@@ -1,2 +1,2 @@
 # Testedesktop
- Fazendo o Repositorio meus Projetos
+ Fazendo o Repositório meus Projetos
